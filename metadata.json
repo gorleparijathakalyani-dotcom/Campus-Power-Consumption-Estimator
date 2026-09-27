@@ -1,0 +1,8 @@
+{
+  "name": "Campus Power Consumption Estimator",
+  "description": "B.Tech mini-project dashboard integrating Basic Electrical Engineering, Linear Algebra, Python data processing, and AI/ML linear regression energy forecasting for college campuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
